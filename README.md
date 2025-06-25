@@ -34,3 +34,4 @@ Check out my published modules and tools on Unity Asset Store for production-rea
 
 ---
 *Building the future of Unity development, one module at a time* ⚡
+![Profile Views](https://komarev.com/ghpvc/?username=LordGamesGDev&color=667eea&style=flat-square)
