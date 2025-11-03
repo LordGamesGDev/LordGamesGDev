@@ -29,7 +29,7 @@
 Check out my published modules and tools on Unity Asset Store for production-ready solutions.
 
 ## 📫 Contact
-- **Email:** contact.lordgames@gmail.com
+- **Email:** lordgames.contact@gmail.com
 - **Unity Publisher:** Lord Games
 
 ---
